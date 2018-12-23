@@ -1,5 +1,5 @@
 [package]
-name = "playground1"
+name = "sorts"
 version = "0.1.0"
 authors = ["andres <andresgutierrez535@gmail.com>"]
 edition = "2018"
